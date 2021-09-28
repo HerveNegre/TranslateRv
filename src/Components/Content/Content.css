@@ -12,7 +12,7 @@
     font-size: clamp(22px, 1.5vw, 30px);
     background: none;
     position: fixed;
-    margin-top: -620px;
+    margin-top: -630px;
 }
 
 @media screen and (max-width: 861px){
