@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/TranslateRv/static/css/main.d4df2d9a.chunk.css",
+    "main.js": "/TranslateRv/static/js/main.16ee54f5.chunk.js",
+    "main.js.map": "/TranslateRv/static/js/main.16ee54f5.chunk.js.map",
+    "runtime-main.js": "/TranslateRv/static/js/runtime-main.70f414eb.js",
+    "runtime-main.js.map": "/TranslateRv/static/js/runtime-main.70f414eb.js.map",
+    "static/js/2.d4c38c2a.chunk.js": "/TranslateRv/static/js/2.d4c38c2a.chunk.js",
+    "static/js/2.d4c38c2a.chunk.js.map": "/TranslateRv/static/js/2.d4c38c2a.chunk.js.map",
+    "index.html": "/TranslateRv/index.html",
+    "static/css/main.d4df2d9a.chunk.css.map": "/TranslateRv/static/css/main.d4df2d9a.chunk.css.map",
+    "static/js/2.d4c38c2a.chunk.js.LICENSE.txt": "/TranslateRv/static/js/2.d4c38c2a.chunk.js.LICENSE.txt",
+    "static/media/france.40c79af5.svg": "/TranslateRv/static/media/france.40c79af5.svg",
+    "static/media/spain.32e1e489.svg": "/TranslateRv/static/media/spain.32e1e489.svg",
+    "static/media/index.css": "/TranslateRv/static/media/terre.75e66b32.jpg",
+    "static/media/united-kingdom.2d19fed4.svg": "/TranslateRv/static/media/united-kingdom.2d19fed4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70f414eb.js",
+    "static/js/2.d4c38c2a.chunk.js",
+    "static/css/main.d4df2d9a.chunk.css",
+    "static/js/main.16ee54f5.chunk.js"
+  ]
+}
