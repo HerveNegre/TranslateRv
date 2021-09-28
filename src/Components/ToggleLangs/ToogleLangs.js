@@ -11,9 +11,9 @@ export default function ToogleLangs() {
 
     return (
         <div className="container-langs">
-            <img onClick={() => toggleLang("FR")} src={process.env.PUBLIC_URL + franceFlag} alt="france" />
-            <img onClick={() => toggleLang("EN")} src={process.env.PUBLIC_URL + englishFlag} alt="english" />
-            <img onClick={() => toggleLang("ES")} src={process.env.PUBLIC_URL + spainFlag} alt="spain" />
+            <img onClick={() => toggleLang("FR")} src={franceFlag} alt="france" />
+            <img onClick={() => toggleLang("EN")} src={englishFlag} alt="english" />
+            <img onClick={() => toggleLang("ES")} src={spainFlag} alt="spain" />
         </div>
     )
 }
